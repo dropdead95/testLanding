@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/testLanding/static/css/main.50ea0436.css",
+    "main.js": "/testLanding/static/js/main.5a1a5157.js",
+    "static/media/man1.png": "/testLanding/static/media/man1.8dd28d93ee451345c595.png",
+    "static/media/Illustration.png": "/testLanding/static/media/Illustration.74fb701a6ccba58f1359.png",
+    "static/media/circle.png": "/testLanding/static/media/circle.8b40b7ad7fff7bbd641d.png",
+    "static/media/circle2.png": "/testLanding/static/media/circle2.bcc735f0dc47419c28ae.png",
+    "static/media/circle1.png": "/testLanding/static/media/circle1.e55f75937413d5662d94.png",
+    "static/media/ellipse.png": "/testLanding/static/media/ellipse.def0559fd1250716fed9.png",
+    "static/media/slack.svg": "/testLanding/static/media/slack.9ffaac96a892e2cefc8bcbc2a8ec7677.svg",
+    "static/media/vscode.svg": "/testLanding/static/media/vscode.c5e0ea99784b4893a4d11e59e9a59fc6.svg",
+    "static/media/instagram.svg": "/testLanding/static/media/instagram.6c1997a298973e4094190d6273d83935.svg",
+    "static/media/folder.svg": "/testLanding/static/media/folder.20b40e540756491be3b0e40878c9a300.svg",
+    "static/media/invision.svg": "/testLanding/static/media/invision.5c85bd1c9f88dda29f834db4daacb740.svg",
+    "static/media/figma.svg": "/testLanding/static/media/figma.f499f8261c29b8304b873e5e536aba58.svg",
+    "static/media/twitter.svg": "/testLanding/static/media/twitter.63a1394b4e2ec20803e45fb26d1a350c.svg",
+    "static/media/sketch.svg": "/testLanding/static/media/sketch.a8adac64f9ead01c244171fbd0cb11a0.svg",
+    "static/media/search.svg": "/testLanding/static/media/search.ba163813dceef88c28c5041ee5250573.svg",
+    "static/media/facebook.svg": "/testLanding/static/media/facebook.171b74aae8b2a55b6e4d6335fa5c3c98.svg",
+    "index.html": "/testLanding/index.html",
+    "static/media/arrow.svg": "/testLanding/static/media/arrow.34949d738cff31dffbc61da45665274a.svg",
+    "main.50ea0436.css.map": "/testLanding/static/css/main.50ea0436.css.map",
+    "main.5a1a5157.js.map": "/testLanding/static/js/main.5a1a5157.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ea0436.css",
+    "static/js/main.5a1a5157.js"
+  ]
+}
