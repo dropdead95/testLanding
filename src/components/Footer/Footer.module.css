@@ -1,0 +1,49 @@
+.footer {
+  border-top: 0.5px solid rgba(255, 255, 255, 0.15);
+}
+
+.footerContainer {
+  display: flex;
+  padding-top: 70px;
+  padding-bottom: 98px;
+}
+.logoBlock {
+  max-width: 260px;
+  margin-right: 156px;
+}
+.contactBlock {
+  margin-right: 115px;
+}
+.categoriesBlock {
+  margin-right: 115px;
+}
+.infoBlock {
+}
+.copyright {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-white-title);
+  margin-top: 25px;
+}
+.desc {
+  font-size: 14px;
+  line-height: 25px;
+  color: var(--color-light);
+  margin-top: 21px;
+}
+.title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: var(--color-white-title);
+  margin-bottom: 20px;
+}
+.descTitle {
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-light);
+  margin-bottom: 10px;
+}

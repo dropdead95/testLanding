@@ -1,0 +1,40 @@
+.newComerToolsContainer {
+  display: flex;
+  margin-bottom: 200px;
+}
+.textWrapper {
+  max-width: 427px;
+  margin-right: 197px;
+}
+.title {
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 130%;
+  color: var(--color-white-title);
+  margin-bottom: 30px;
+}
+.desc {
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: var(--color-light);
+  margin-bottom: 60px;
+}
+.btn {
+  font-family: Poppins, sans-serif;
+  padding: 15px 40px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: var(--color-white);
+  background: var(--color-primary);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.cardWrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-column-gap: 24px;
+  grid-row-gap: 50px;
+}

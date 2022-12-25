@@ -1,0 +1,53 @@
+.headerContainer {
+  height: 100px;
+  display: flex;
+  padding: 31px 0;
+  margin-bottom: 78px;
+}
+.headerMenu {
+  display: flex;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  margin-right: 194px;
+}
+.menuItem {
+  margin-right: 39px;
+}
+.menuItem:last-child {
+  margin: 0;
+}
+.menuLink {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-light);
+}
+.arrowMenu {
+  margin-left: 10px;
+}
+
+.login {
+  display: flex;
+  align-items: center;
+  margin-right: 41px;
+}
+.loginLink {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-white);
+  opacity: 0.78;
+}
+.btn {
+  width: 118px;
+  height: 48px;
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: #fdf5ff;
+  background-color: var(--color-primary);
+  cursor: pointer;
+}

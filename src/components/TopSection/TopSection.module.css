@@ -1,0 +1,69 @@
+.topSectionContainer {
+  display: flex;
+  margin-bottom: 200px;
+}
+.imageBlock {
+  position: relative;
+}
+.image {
+  position: absolute;
+  left: 0;
+  top: -45px;
+}
+.title {
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 140%;
+  color: var(--color-white-title);
+  margin-bottom: 30px;
+}
+.title span {
+  color: var(--color-primary);
+}
+.subtitle {
+  width: 487px;
+  font-size: 18px;
+  line-height: 30px;
+  color: var(--color-light);
+  margin-bottom: 60px;
+}
+.inputWrapper {
+  width: 498px;
+  display: flex;
+  align-items: center;
+  border: 1.5px solid rgba(255, 255, 255, 0.1);
+  background: #283036;
+  border-radius: 15px;
+  padding: 8px 11px 8px 18px;
+  margin-bottom: 110px;
+}
+.content {
+  flex-basis: 600px;
+  margin-right: 155px;
+}
+.input::placeholder {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  line-height: 21px;
+  color: rgba(255, 255, 255, 0.38);
+}
+.input {
+  margin-left: 13px;
+  width: 100%;
+  background: #283036;
+  color: var(--color-white);
+}
+.btn {
+  font-family: "Poppins", sans-serif;
+  padding: 12px 36px;
+  background: var(--color-primary);
+  border-radius: 8px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-white);
+}
+.social {
+  display: flex;
+  gap: 31px;
+}

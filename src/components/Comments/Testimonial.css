@@ -1,0 +1,115 @@
+.testimonialContainer {
+  position: relative;
+  padding-bottom: 125px;
+  margin-bottom: 250px;
+}
+.circle-purple {
+  width: 43px;
+  height: 43px;
+  position: absolute;
+  top: 156px;
+  left: 224px;
+}
+.circle-orange {
+  position: absolute;
+  width: 65px;
+  height: 65px;
+  left: 465px;
+  top: 333px;
+}
+.circle-blue {
+  width: 23px;
+  height: 23px;
+  position: absolute;
+  filter: blur(2.5px);
+  left: 552px;
+  top: 420px;
+  z-index: 2;
+}
+.circle {
+  position: absolute;
+  top: 69px;
+  left: 187px;
+}
+.text-wrapper {
+  position: absolute;
+  top: 354px;
+  left: 317px;
+  padding: 10px 23px 18px;
+  background: rgba(40, 48, 54, 0.2);
+  backdrop-filter: blur(25px);
+  border-radius: 8px;
+  z-index: 2;
+}
+.name {
+  font-weight: 500;
+  font-size: 26px;
+  line-height: 39px;
+  letter-spacing: 0.015em;
+  color: rgba(255, 253, 253, 0.78);
+}
+.profession {
+  font-size: 16px;
+  line-height: 24px;
+  color: var(--color-light);
+}
+.swiper-pagination-bullet {
+  width: 44px;
+  height: 6px;
+  background: #283036;
+  border-radius: 4px;
+  margin-right: 18px;
+}
+
+.swiper-pagination-bullet-active {
+  background: var(--color-primary);
+}
+.swiper-button-next {
+  top: 250px;
+  right: 30px;
+}
+.swiper-button-prev {
+  top: 250px;
+  left: 30px;
+}
+.swiper-button-prev:after {
+  display: none;
+}
+.swiper-button-next:after {
+  display: none;
+}
+.button-next {
+  transform: translateY(-50%);
+  top: 50%;
+  position: absolute;
+  right: 33px;
+}
+.button-prev {
+  position: absolute;
+  top: 50%;
+  left: 33px;
+  transform: translateY(-50%) rotate(180deg);
+}
+.slider-container {
+  display: flex;
+}
+.text {
+  font-family: Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 30px;
+  letter-spacing: 0.015em;
+  color: rgba(255, 255, 255, 0.78);
+  margin-top: 128px;
+  margin-right: 188px;
+}
+.image-wrapper {
+  margin-left: 194px;
+  margin-right: 57px;
+  z-index: 1;
+}
+.swiper-pagination {
+}
+.swiper {
+  position: unset;
+  height: 100%;
+}

@@ -1,0 +1,33 @@
+.trustedBrandsContainer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 55px 86px;
+  background: rgba(44, 53, 61, 0.2);
+  border-radius: 25px;
+  overflow: hidden;
+  margin-bottom: 200px;
+}
+.title {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 36px;
+  color: rgba(255, 255, 255, 0.8);
+  margin-bottom: 55px;
+}
+.ellipse {
+  position: absolute;
+  left: -86px;
+  top: -86px;
+  visibility: visible;
+  width: 159px;
+  height: 159px;
+  background: rgba(255, 72, 66, 0.4);
+  filter: blur(50px);
+}
+.companiesWrapper {
+  display: flex;
+  align-items: center;
+  gap: 107px;
+}

@@ -1,0 +1,14 @@
+.logo {
+  display: flex;
+  align-items: center;
+  margin-right: 257px;
+}
+.textLogo {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: var(--color-white-title);
+}
+.logoIcon {
+  margin-right: 12px;
+}
